@@ -1,5 +1,5 @@
 # FreeCodeCamp Article  ➡️  PDF
-### SAVE & read freeCodeCamp articles without screen-hogging banners
+### Save & read freeCodeCamp articles without screen-hogging banners
 Downloads PDFs to your desktop from freeCodeCamp that are optimized for easy reading on smaller laptop screens.
 
 ## Usage:

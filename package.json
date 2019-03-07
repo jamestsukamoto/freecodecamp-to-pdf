@@ -1,0 +1,22 @@
+{
+  "name": "freecodecamp-to-pdf",
+  "version": "1.0.0",
+  "description": "Downloads PDFs to your desktop from FreeCodeCamp that are modified for easy reading on smaller laptop screens.",
+  "main": "index.js",
+  "scripts": {
+    "test":
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestsukamoto/freecodecamp-to-pdf.git"
+  },
+  "author": "James Tsukamoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestsukamoto/freecodecamp-to-pdf/issues"
+  },
+  "homepage": "https://github.com/jamestsukamoto/freecodecamp-to-pdf#readme",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}

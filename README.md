@@ -3,7 +3,7 @@
 Downloads PDFs to your desktop from FreeCodeCamp that are modified for easy reading on smaller laptop screens.
 
 ## Usage:
-- Clone repo
+- Clone/Download repo
 - NPM install will install Google's Puppeteer & the latest version of Chromium
 - Copy URL of FreeCodeCamp article to download
 - Navigate to `freecodecamp-to-pdf` directory
